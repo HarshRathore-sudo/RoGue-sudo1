@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there Harsh Rathore this side a budding developer with a year of experience in the front-end tech stack. Currently working as a software developer in Fretron Pvt. ltd. I have a strong inclination toward web performance and design. I am motivated to learn new skills with a passion for software development.
+Hey there **Harsh Rathore** this side a budding developer with a year of experience in the **front-end tech** stack. Currently working as a **software developer** in **Fretron Pvt. ltd.**. I have a strong inclination toward web performance and design. I am motivated to learn new skills with a passion for software development.
 
 
 ## 🌐 Socials:
