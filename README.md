@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hey there **Harsh Rathore** this side a budding developer with a year of experience in the **front-end tech** stack. Currently working as a **software developer** in **Fretron Pvt. ltd.**. I have a strong inclination toward web performance and design. I am motivated to learn new skills with a passion for software development.
+Namaste 🙏 and welcome to my Github profile! 
+
+Hey, there **Harsh Rathore** this side, I'm a budding frontend developer fueled by coffee ☕ and a love for creating intuitive and engaging web experiences. Currently working as a **software developer** in **Fretron Pvt. ltd.**. I thrive in collaborative environments, working closely with designers and back-end devs to bring projects to life. Skilled in 💻 Javascript, Angular, ReactJs, Rxjs, Redux, NgRx 💻 and many more. I'm constantly seeking opportunities to learn and grow alongside a talented team.
 
 
 ## 🌐 Socials:
